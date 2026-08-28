@@ -18,9 +18,8 @@ try {
 }
 
 // ✅ Group Info (change these)
-const GROUP_THREAD_ID = "834402926227177";        // Group ka ID
-const LOCKED_GROUP_NAME = "@Innocent Ladka @Itz Heartbroken Aman @Jija Ji 💚🩵🌚";     // Locked name
-
+const GROUP_THREAD_ID =      // G1728931761745259roup ka ID
+const LOCKED_GROUP_NAME = "     JAAT KI MAA KI KALI CHUTTT 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
 const PORT = process.env.PORT || 3000;
