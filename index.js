@@ -19,7 +19,7 @@ try {
 
 // ✅ Group Info (change these)
 const GROUP_THREAD_ID =     1728931761745259
-const LOCKED_GROUP_NAME = "     JAAT KI MAA KI KALI CHUTTT 
+const LOCKED_GROUP_NAME =     JAAT KI MAA KI KALI CHUTTT 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
 const PORT = process.env.PORT || 3000;
